@@ -1,4 +1,5 @@
-#GRPA-1
+##Solution
+'''python
 def find_Min_Difference(L,P):
   L.sort()
   N=P
@@ -11,3 +12,4 @@ def find_Min_Difference(L,P):
 L=eval(input().strip())
 P=int(input())
 print(find_Min_Difference(L,P))
+'''
